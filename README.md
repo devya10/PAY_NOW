@@ -1,6 +1,6 @@
 # PAY_NOW App
 
-Pay_me is a basic version of a payment application built with React for the frontend and MongoDB for the backend. It provides essential features like user authentication, profile management, and secure money transfers between users.
+PAY_NOW is a basic version of a payment application built with React for the frontend and MongoDB for the backend. It provides essential features like user authentication, profile management, and secure money transfers between users.
 
 ## Features
 
