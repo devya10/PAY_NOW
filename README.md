@@ -45,3 +45,4 @@ PAY_NOW is a basic version of a payment application built with React for the fro
 ## Getting Started
 
 1. Clone the repository
+2. And Install all the Packages and run it locally.
