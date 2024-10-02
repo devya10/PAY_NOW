@@ -5,8 +5,8 @@ PAY_NOW is a basic version of a payment application built with React for the fro
 ## Features
 
 1. User Authentication
-   - Sign Up: New users can create an account.
-   - Sign In: Existing users can log into their accounts.
+   - Sign up: New users can create an account.
+   - Sign in: Existing users can log into their accounts.
 
 2. Dashboard
    - Profile Management: Users can update their username and password.
